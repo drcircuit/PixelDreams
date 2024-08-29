@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: fc44325e26de63a4db85eac44326c8f8
+  - enabled: 1
+    path: Assets/Scenes/PixelDreamsIntro.unity
+    guid: 5589a188a9a992f4b85d3f360e7b13e0
+  - enabled: 1
+    path: Assets/Scenes/hexScape.unity
+    guid: ae5349fcc9ed8e1449c590a9666b75d3
+  - enabled: 1
+    path: Assets/Scenes/blackHole.unity
+    guid: d9a4bf884eaadb042a8f7af1fc52f6d6
+  - enabled: 1
+    path: Assets/Scenes/DodecahedronEffect.unity
+    guid: b2ca0008b7478ac44a176f7cd6916b4b
+  - enabled: 1
+    path: Assets/Scenes/mandelbox.unity
+    guid: f54873926a4ff414e893110aefd75ccc
+  - enabled: 1
+    path: Assets/Scenes/veins.unity
+    guid: c30f5a18390be5e4998660b49f68b97b
+  m_configObjects: {}
